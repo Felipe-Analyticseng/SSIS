@@ -15,7 +15,7 @@
       <SSIS:Project SSIS:ProtectionLevel="EncryptSensitiveWithUserKey" xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
         <SSIS:Properties>
           <SSIS:Property SSIS:Name="ID">{e8e6abc6-b55b-43ef-8105-c2a1a77899ad}</SSIS:Property>
-          <SSIS:Property SSIS:Name="Name">Projeto Portifólio</SSIS:Property>
+          <SSIS:Property SSIS:Name="Name">Integration Service (SSIS)</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LAPTOP-QGC71LJQ</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALk9lP2kQR0ijr6RgyAPZ4wAAAAACAAAAAAAQZgAAAAEAACAAAABP94M4E9IqxbFkA7IhnZINNHfPzQCCYfJhzu1lCRi+iQAAAAAOgAAAAAIAACAAAAAcE6AcbVGwAmA/Yh5Hpvavpp7jZSNpl41MKOjrVrZwMJAAAABLugiBUwA+AizFSc9Y7Fz/H8/uyD2xIvfzAK0FBI4WhZ6WRhADHpui37hzUtXGYblNRbZI5LAb0keTXABzSTtZGe5DqUHYrSQh8UuE8/cp5ixJQrXcQDqstmMjToa2mq3bfCkrpZjO2rvw/ZXU0A0bm2l0MLzpkyDNeiJcqh0hRthFcknJTbqoVVHDPtoVd2tAAAAAC8BaqFnMpxKk6updOZah4ww96AGYcXMcN0t6VmqwNz3DjxnzeqLKwq43jS6ff7sq8WupGWBsWQRcWxUgadDfTA==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALk9lP2kQR0ijr6RgyAPZ4wAAAAACAAAAAAAQZgAAAAEAACAAAAAs0eDsbhGyR1nsY+d7IPJwX8Aa7mRXQ11aYtA+HSf5RAAAAAAOgAAAAAIAACAAAADdgE+1ray2NZi0xe0l/LPXn4+8UYCiSsxBEbWdgfiClJAAAADIBLvvKcmDvA9zbR+xYCn8K9gQsrLQ98/V4IeQl/oTfpJcQjbCIV9e3upw2UECI6UrNHNngQmFNuQ8yIYYuoUK1dVy4zQmH9G7yUBWY12cpyBs1vWvFNgMcHtWbMwIZSDZT25H+oXa+kzK895Ignu1TRGJM/knazexe7AX9V5ICs1vsribae8qI7pZ9xtVFzlAAAAA17yEyi7H48NgCLUWaGzXx56F9sQ7i5B2SszPc7WeeKBGio00ORgjDIsAUM86IXBexvjSvbKDZzssgvaeBlqRzQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
