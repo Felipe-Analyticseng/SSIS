@@ -26,26 +26,26 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LAPTOP-QGC71LJQ</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALk9lP2kQR0ijr6RgyAPZ4wAAAAACAAAAAAAQZgAAAAEAACAAAABhS4j+dWzotUZNgxIlvhAMYsFcu8BVFbUAlHIdTU3AxQAAAAAOgAAAAAIAACAAAAClJ9z+CH7qUCno2iIrZlXAvfAUtQeIbd91Tx773M/V3pAAAAAnYu5TGueyuqIs8HJf99SV7kNLKsnQ1KGa2EFWXIwscFR/vAus/PIsAzmmaIzlrjE7JRr08mYEb3YraT/hO5bPF+Ek5OWE5AJa4moYZ0u2k+rE87abAUS75yNEEhtYtN63qP+K/7f2RupPnu8bL2s1R+tK7EDhS5Z2M4/f6+TgeB+tVQHB83jQzgu7v+6ijKJAAAAAtkiGazIugi0LOZgJJqa/q6GP9yYyZkFS0tH5oiIlXykA1n3VIMdKPFoCIa/H9QUVkEmffFmvDflAnd1EM7S3Tg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALk9lP2kQR0ijr6RgyAPZ4wAAAAACAAAAAAAQZgAAAAEAACAAAABP94M4E9IqxbFkA7IhnZINNHfPzQCCYfJhzu1lCRi+iQAAAAAOgAAAAAIAACAAAAAcE6AcbVGwAmA/Yh5Hpvavpp7jZSNpl41MKOjrVrZwMJAAAABLugiBUwA+AizFSc9Y7Fz/H8/uyD2xIvfzAK0FBI4WhZ6WRhADHpui37hzUtXGYblNRbZI5LAb0keTXABzSTtZGe5DqUHYrSQh8UuE8/cp5ixJQrXcQDqstmMjToa2mq3bfCkrpZjO2rvw/ZXU0A0bm2l0MLzpkyDNeiJcqh0hRthFcknJTbqoVVHDPtoVd2tAAAAAC8BaqFnMpxKk6updOZah4ww96AGYcXMcN0t6VmqwNz3DjxnzeqLKwq43jS6ff7sq8WupGWBsWQRcWxUgadDfTA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="Fluxo de Dados.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters />
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="Package.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="Fluxo de Dados.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{06AF93B4-5532-40A7-93DA-B6D41C37F99A}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{2890E732-2323-498D-967C-ED0ABD09BC09}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">Fluxo de Dados</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">5</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">45</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{2F709FD1-22C2-4A9C-B2C4-A9F406A5C0D8}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{740778D6-532F-4B4E-B908-EFE8D06444CE}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
